@@ -1,1 +1,1 @@
-# study-pro-spring
+# 회사 스터디 준비 자료
